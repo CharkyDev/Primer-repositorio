@@ -31,6 +31,8 @@ button {
     vertical-align: middle;
     height: 100%;
     line-height: 45px;
+    margin: 40px 20px 0;
+    font-size: 0;
   }
 
   .logo > img {
@@ -49,4 +51,8 @@ button {
     text-align: right;
     font-size: 14px;
     font-weight: 600;
+  }
+  .main {
+    margin-top: 140px;
+    text-align: center;
   }
